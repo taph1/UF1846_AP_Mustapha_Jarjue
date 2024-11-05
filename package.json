@@ -1,0 +1,19 @@
+{
+  "name": "uf1846_prova_practica_2024-11-05_enunciat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "UF1846_Prova_Practica",
+  "devDependencies": {
+    "morgan": "^1.10.0"
+  },
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}

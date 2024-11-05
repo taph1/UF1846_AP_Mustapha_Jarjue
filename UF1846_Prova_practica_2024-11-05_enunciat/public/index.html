@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Biblioteca</title>
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <header><h1>Biblioteca</h1></header>
+
+    <main>
+      <p>Opciones</p>
+      <ul>
+        <li>
+          <span>/api</span> : Devuelve la lista completa de autores ordenados
+          alfabéticamente por apellido
+        </li>
+        <li>
+          <span>/api/apellido/[apellido del autor]</span> : Devuelve la lista de
+          los autores con el apellido indicado. Por ejemplo :
+          <span>/api/apellido/Dumas</span>
+        </li>
+        <li>
+          <span
+            >/api/nombre_apellido/[nombre del autor]/[apellido del autor]</span
+          >
+          : Devuelve la lista de los autores con el nombre y apellido indicado.
+          Por ejemplo :
+          <span>/api/nombre_apellido/Alexandre/Dumas</span>
+        </li>
+        <li>
+          <span
+            >/api/nombre?apellido=[primeras letras del apellido del autor]</span
+          >
+          : Devuelve la lista de los autores con el nombre y primeras letras del
+          apellido indicado. Por ejemplo :
+          <span>/api/nombre/Alexandre?apellido=Du</span>
+          <p>
+            Si no se introduce la búsqueda del apellido se mostrar el siguiente
+            mensaje: "Falta el parámetro apellido"
+          </p>
+        </li>
+                <li>
+          <span
+            >/api/edicion=[año de edición]</span
+          >
+          : Devuelve la lista de las obras editadas en el año indicado. Por ejemplo :
+          <span>/api/edicion/2022</span>
+          
+        </li>
+      </ul>
+    </main>
+  </body>
+</html>

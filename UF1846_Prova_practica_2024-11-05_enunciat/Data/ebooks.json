@@ -1,0 +1,141 @@
+[
+  {
+    "autor_apellido": "Dumas",
+    "autor_nombre": "Alexandre",
+    "obras": [
+      {
+        "titulo": "Los tres mosqueteros",
+        "editorial": "Alianza",
+        "edicion": 2022,
+        "idioma": "esp",
+        "portada": "los_tres_mosqueteros.jpg"
+      },
+      {
+        "titulo": "Els tres mosqueters",
+        "editorial": "Proa",
+        "edicion": 2022,
+        "idioma": "cat",
+        "portada": "els_tres_mosqueters.jpg"
+      },
+      {
+        "titulo": "El comte de Montecristo",
+        "editorial": "Castellnou",
+        "edicion": 2018,
+        "idioma": "cat",
+        "portada": "el_comte_de_Montecristo.jpg"
+      },
+      {
+        "titulo": "El conde de Montecristo",
+        "editorial": "Akal",
+        "edicion": 2016,
+        "idioma": "esp",
+        "portada": "el_conde_de_Montecristo.jpg"
+      }
+    ]
+  },
+  {
+    "autor_apellido": "Asimov",
+    "autor_nombre": "Isaac",
+    "obras": [
+      {
+        "titulo": "El hombre bicentenario",
+        "editorial": "Alianza",
+        "edicion": 2013,
+        "idioma": "esp",
+        "portada": "El_hombre_bicentenario.jpg"
+      }
+    ]
+  },
+  {
+    "autor_apellido": "Lem",
+    "autor_nombre": "Stanislaw",
+    "obras": [
+      {
+        "titulo": "Solaris",
+        "editorial": "Akal",
+        "edicion": 2013,
+        "idioma": "esp",
+        "portada": "solaris.jpg"
+      },
+      {
+        "titulo": "Ciberiada",
+        "editorial": "Alianza",
+        "edicion": 2021,
+        "idioma": "esp",
+        "portada": "ciberiada.jpg"
+      }
+    ]
+  },
+  {
+    "autor_apellido": "K. Le Guin",
+    "autor_nombre": "Ursula",
+    "obras": [
+      {
+        "titulo": "Los desposeidos",
+        "editorial": "Minotauro",
+        "edicion": 2020,
+        "idioma": "esp",
+        "portada": "Los_desposeidos.jpg"
+      },
+      {
+        "titulo": "Planos paralelos",
+        "editorial": "Minotauro",
+        "edicion": 2021,
+        "idioma": "esp",
+        "portada": "Planos_paralelos.jpg"
+      }
+    ]
+  },
+  {
+    "autor_apellido": "Shelley",
+    "autor_nombre": "Mary",
+    "obras": [
+      {
+        "titulo": "Frankenstein o el modern Prometeu",
+        "editorial": "Meracovia",
+        "edicion": 2019,
+        "idioma": "cat",
+        "portada": "Frankenstein.jpg"
+      }
+    ]
+  },
+  {
+    "autor_apellido": "Orwell",
+    "autor_nombre": "George",
+    "obras": [
+      {
+        "titulo": "1984",
+        "editorial": "La Magrana",
+        "edicion": 2022,
+        "idioma": "cat",
+        "portada": "1984.jpg"
+      }
+    ]
+  },
+  {
+    "autor_apellido": "Swift",
+    "autor_nombre": "Jonathan",
+    "obras": [
+      {
+        "titulo": "Los viajes de Gulliver",
+        "editorial": "Penguin",
+        "edicion": 2016,
+        "idioma": "esp",
+        "portada": "Los_viajes_de_Gulliver.jpg"
+      }
+    ]
+  },
+    {
+      "autor_apellido": "Beard",
+      "autor_nombre": "Mary",
+      "obras": [
+        {
+          "titulo": "Emperador de Roma",
+          "editorial": "Critica",
+          "edicion": 2023,
+          "idioma": "esp",
+          "portada": "Emperador de Roma.jpg"
+        }
+      ]
+    }
+]

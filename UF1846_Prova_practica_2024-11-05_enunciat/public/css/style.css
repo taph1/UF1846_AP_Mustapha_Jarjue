@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+main {
+    margin: 0 auto;
+    max-width: 80%; 
+}
+
+h1 {
+    color: red;
+    text-align: center;
+
+
+}
+
+ul {
+    list-style: square;
+}
+
+li {
+    margin: 1rem;
+}
+
+span {
+    color: red;
+    font-weight: 800;
+}
+img {
+    width: 100%;
+}
